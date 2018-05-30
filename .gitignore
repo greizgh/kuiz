@@ -1,0 +1,5 @@
+node_modules
+web/.cache
+web/dist
+.crossbar/key*
+__pycache__
